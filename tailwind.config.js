@@ -29,4 +29,5 @@ module.exports = {
 		extend: { opacity: ['disabled'] },
 	},
 	plugins: ['@tailwindcss/forms'],
+	
 };
